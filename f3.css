@@ -1,0 +1,51 @@
+.con{
+position : relative;
+    
+}
+.tb{ width: 100%;
+    height: 100%;
+    text-shadow: 3px,2px,1px;
+    text-decoration-style:double;
+    border-color: aqua ;
+    border-radius: 2px;
+    background-size: contain;
+    background-origin: padding-box;
+    backface-visibility: visible;
+    position: relative;
+    right:relative;
+    left:relative;
+    top:-1000px;
+    background-color:ghostwhite;
+    color:black;
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    opacity:0.5;
+    font-family: fantasy;
+    font-weight:100;
+    
+}
+.nb{
+font-size:relative;
+    font-family: cursive;
+    font font-weight: 300;
+    color: darkred;
+    background-color: whitesmoke;
+    padding: 3px;
+    padding-bottom: 2px;
+    text-shadow: 3px,,2px;
+    text-decoration: none;
+    
+}
+
+.google {
+    padding: 3px;
+    font
+    text-decoration: none;
+    text-shadow: 3px,2px,1px;
+    text-transform: lowercase;
+    border-radius: 2px;
+    border-color: darksalmon;
+  background: #dd4b39;
+  color: white;
+}
